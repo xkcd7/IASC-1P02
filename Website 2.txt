@@ -5,13 +5,13 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta content="en-us" http-equiv="Content-Language" />
-		<title>This is some awesome text</title>
+		<title>This is the Second Page</title>
 	</head>
 
 	<body>
 		
 		<div>
-			<p>This is some awesome text</p>
+			<p><a href="\IASC-1P02\Website-1.asp">Click Here to go to the First Page</a></p>
 		</div>
 
 	</body>
