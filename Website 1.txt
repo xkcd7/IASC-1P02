@@ -11,7 +11,7 @@
 	<body>
 		
 		<div>
-			<p>Here is the Link to Page 2</p>
+			<p><a href="\IASC-1P02\Website-2.asp">Here is the Link to Page 2</a></p>
 		</div>
 
 	</body>
